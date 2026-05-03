@@ -1,0 +1,13 @@
+Algoritma Jenis Akar Persamaan Kuadrat 
+INPUT a, b, c
+D = b^2 - 4ac
+IF D >= 0 
+    IF D > 0 
+        OUTPUT “ Akar Real dan Berlainan”
+  ELSE 
+      OUTPUT “Akar Real dan Kembar”
+   ENDIF
+ELSE
+    OUTPUT “ Akar Imajiner”
+END
+

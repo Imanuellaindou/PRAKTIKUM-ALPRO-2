@@ -1,0 +1,13 @@
+Algoritma Bilangan Prima
+INPUT n (bilangan Prima)
+IF n <= 1 THEN
+OUTPUT “ Bukan Prima”
+ELSE
+1 = 2 
+WHILE  i <= √n
+     IF n % i == 0
+         OUTPUT “Bukan Prima”
+         EXIT WHILE 
+IF   i = i + 1
+OUTPUT “Prima”
+END

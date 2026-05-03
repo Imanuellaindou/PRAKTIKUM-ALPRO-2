@@ -1,0 +1,12 @@
+Algoritma Faktorial 
+INPUT bilangan 
+IF bilangan < 0
+        OUTPUT “ Faktorial tidak terdefinisi untuk bilangan negatif”
+ELSE
+       IF bilangan = 0, Maka
+Faktorial = 1
+    ELSE
+          Faktorial = 1
+          FOR i = 1
+             Faktorial = Faktorial * 1
+END
